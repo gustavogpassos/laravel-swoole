@@ -1,7 +1,7 @@
 {
     "packages": {
         "gustavogpassos/laravel-swoole": {
-            "dev-master": { @composer.json }
+            "latest": { @composer.json }
         }
     }
 }
