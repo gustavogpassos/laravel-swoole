@@ -1,6 +1,6 @@
 {
     "packages": {
-        "vendor/package-name": {
+        "gustavogpassos/laravel-swoole": {
             "dev-master": { @composer.json }
         }
     }
